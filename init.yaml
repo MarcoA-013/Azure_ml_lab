@@ -1,0 +1,167 @@
+description: null
+tags:
+  _aml_system_automl_mltable_data_json: >-
+    {"Type":"MLTable","TrainData":{"Uri":"azureml://locations/brazilsouth/workspaces/5a167713-3b68-4adb-b54d-68c8b1e3c98a/data/aluguel_de_bicicletas/versions/1","ResolvedUri":null,"AssetId":null},"TestData":null,"ValidData":null}
+  model_explain_run: best_run
+  _aml_system_automl_run_workspace_id: 5a167713-3b68-4adb-b54d-68c8b1e3c98a
+  _aml_system_azureml.automlComponent: AutoML
+  pipeline_id_000: >-
+    faf12f74cf9bbd358ca5525682c5030d36f7be7c;4bc4ec47eb8df2d5d68b361cd60120e65196f757;2dc95d8bafd84221b8de309021c722b4fa570e77;86f7c6ce026522eff88f32e647e3e27450da2679;7839ca66a0ff9be386363c852f0384a7b2a1c93f;ae729f09378486945c70eb2a2306f8aa8f4e30a7;b5f35f573ce4f6e8526176d4e0932b5193598307;2fc5ee5be65983eab8d5af23f74954191da0c4f2;0e4d1e646ec698bc1e08f88af9d6e54d9b5422df;735cba3318c2ccc77fba61252dbfd5b383e4584f;b76be6b5846772ee1128c4d415381c1e9fed455e;e82ddfae3f3411c8b05ab2d7bcfa24efe6127128;8dd0d2b5b07d59df7d3518d8fdd9759f1d7144ab;363e188cf66af3167162068ddb47df1e1d4c64c1;8a88a88c161345f1ea426367a9f85077c834f4e0;3d41561aa650aa5533e046dbc8a84c64295d0663;cb44bb856e47d617d7a9ad0d334455564181de96;7ac99a8d7e1f10883e7b154ca80bc4c96085ea6e;d06172a655b6232a9b9f551137c6a5776dd25598;dfb6a26e76b241328de37f8f3f98c8f0390f6878;d7b5ca4918510e5e3696f6e4c2ab81be2b01da1a;f4c6193ba50075f70966c674e6c689fd23f52ec3;95ddff2b61850de29649da47442b36f44f33c30b;7eee679d56d093ac45283205e517761489d8cf0a;eaa2387ce22da4824e99f853d44ef60ce200a272;86c1a15e32ea600d10e38f0aec89d2c7ca3c0207;2126f8ae40d01edf37728f92de6c6d5dba3d6a40;9c38a2274d0ef630edd7ab10839b68ef684d8f56;93789d68c50fd1aea2c1e0f9db364129ac9b35fe;728cb82ee2757bf58cebc724f3c081105ca68a2e;f29f9bd8547dbd2b30e1f54af18f6c9e65dd97f8;e4f7446da98c8a79e0522d1342d110d06ae5facd;8e0363da56facb567426b0cc1f9d6477bf3da1c2;e6d3b627d4d5233a4c761e9280a06f6388c365a8;8f5bba8fec3d609d3405747c0bc94bcad956a19f;c4d9c4550f8c5354d29b446a14788111f416ebf2;8d00a44b595e2a8edb1691ac37af594c0c5f42fc;dd81ae3d1e702eaab59833343986af44e747d77b;e19f01198bd9e1c45ff817725f1cd77cf573c2a7;0880bbacbb01a92a8992549a40a842740b785ebb;__AutoML_Ensemble__
+  score_000: >-
+    0.08047508152916473;0.08222495592461665;0.11145479019514194;0.11166351007670627;0.11152499032866342;0.1116730198501768;0.10301429744778189;0.1112497802535633;0.11162675425779253;0.14913896995379788;0.11212489035212787;0.1205017868879406;0.11466559950825032;0.1112497802535633;0.11192170020439567;0.1113347366384023;0.10529751226549344;0.11122857449984408;0.09883696785139619;0.09689823714934315;0.1004067284498326;0.09637471193389656;0.09706569287584105;0.12076347345766338;0.12383406408023984;0.11734683741059351;0.11464156025776337;0.10854674658322949;0.1040619513257072;0.09485452752639424;0.10216040128070882;0.10117232099210617;0.10977462883964893;0.1231330830347533;0.1144878238088229;0.2667213237895911;0.09198338991409215;0.1139283081486456;0.12212349175485358;0.11038737897668786;0.07698841229980119
+  predicted_cost_000: >-
+    0;0;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.5;0.011632673956780505;0.0779539198148481;0.09668840412337917;0.016351413677603597;0.07875139706274116;0.0012943046199070073;0.02031619981585023;0.05102271209298176;0.022182929310440077;0.022726818386393243;0.016189772373896027;0.059009383226786616;0.25639641060460033;0.2048307616830213;0.021425638375613665;0.19931398354672245;0.32947556515150617;0.1369568174839402;0.2199822007150472;0.027622573804855412;0
+  fit_time_000: >-
+    0.051884;0.104923;0.08011;0.072768;0.074324;0.09308899999999999;0.035609;0.016362;0.075714;0.002539;0.019171999999999998;0.003335;0.0044930000000000005;0.016126;0.005359;0.023877000000000002;0.003597;0.014745;0.006017;0.016245;0.027372;0.132791;0.173303;0.042316;0.998075;0.009115999999999999;0.036072;0.15750599999999998;0.035511;0.025311;0.09182900000000001;0.16321200000000002;0.693875;0.11538;0.023326;0.013137;0.075487;0.286169;0.312588;0.01862;9
+  training_percent_000: >-
+    100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100;100
+  iteration_000: >-
+    0;1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20;21;22;23;24;25;26;27;28;29;30;31;32;33;34;35;36;37;38;39;40
+  run_preprocessor_000: >-
+    MaxAbsScaler;MaxAbsScaler;MaxAbsScaler;StandardScalerWrapper;MaxAbsScaler;MaxAbsScaler;MaxAbsScaler;StandardScalerWrapper;StandardScalerWrapper;StandardScalerWrapper;MaxAbsScaler;StandardScalerWrapper;StandardScalerWrapper;StandardScalerWrapper;StandardScalerWrapper;StandardScalerWrapper;StandardScalerWrapper;StandardScalerWrapper;MaxAbsScaler;MaxAbsScaler;StandardScalerWrapper;StandardScalerWrapper;StandardScalerWrapper;StandardScalerWrapper;MaxAbsScaler;StandardScalerWrapper;StandardScalerWrapper;MaxAbsScaler;MaxAbsScaler;MaxAbsScaler;MaxAbsScaler;MaxAbsScaler;MaxAbsScaler;StandardScalerWrapper;MaxAbsScaler;MaxAbsScaler;StandardScalerWrapper;MaxAbsScaler;MaxAbsScaler;MaxAbsScaler;
+  run_algorithm_000: >-
+    LightGBM;XGBoostRegressor;ElasticNet;ElasticNet;ElasticNet;ElasticNet;ExtremeRandomTrees;ElasticNet;ElasticNet;ElasticNet;RandomForest;ElasticNet;ElasticNet;ElasticNet;ElasticNet;ElasticNet;DecisionTree;ElasticNet;DecisionTree;LightGBM;ExtremeRandomTrees;LightGBM;RandomForest;RandomForest;GradientBoosting;LightGBM;ExtremeRandomTrees;ExtremeRandomTrees;ExtremeRandomTrees;ExtremeRandomTrees;LightGBM;ExtremeRandomTrees;ExtremeRandomTrees;ExtremeRandomTrees;ExtremeRandomTrees;LightGBM;LightGBM;RandomForest;RandomForest;RandomForest;VotingEnsemble
+  dynamic_allowlisting_iterations: <25>;<30>;<35>;
+  _aml_system_azureml.automl_early_exit_message: >-
+    No scores improved over last 20 iterations, so experiment stopped early.
+    This early stopping behavior can be disabled by setting
+    enable_early_stopping = False in AutoMLConfig for notebook/python SDK runs.
+  automl_best_child_run_id: curso-lab-ai900_40
+  model_explain_best_run_child_id: curso-lab-ai900_40
+properties:
+  num_iterations: '1000'
+  training_type: TrainFull
+  acquisition_function: EI
+  primary_metric: normalized_root_mean_squared_error
+  train_split: '0'
+  acquisition_parameter: '0'
+  num_cross_validation: ''
+  target: Serverless
+  AMLSettingsJsonString: >-
+    {"is_subgraph_orchestration":false,"is_automode":true,"path":"./sample_projects/","subscription_id":"17f9bca9-a8a6-40fa-9173-2f36be2e5fc1","resource_group":"Container_1","workspace_name":"Estudos","iterations":1000,"primary_metric":"normalized_root_mean_squared_error","task_type":"regression","IsImageTask":false,"IsTextDNNTask":false,"validation_size":0.1,"test_size":0.1,"n_cross_validations":null,"preprocess":true,"is_timeseries":false,"time_column_name":null,"grain_column_names":null,"max_cores_per_iteration":-1,"max_concurrent_iterations":1,"max_nodes":1,"iteration_timeout_minutes":30,"enforce_time_on_windows":false,"experiment_timeout_minutes":360,"exit_score":"NaN","experiment_exit_score":"NaN","whitelist_models":null,"blacklist_models":null,"blacklist_algos":["TensorFlowDNN","TensorFlowLinearRegressor"],"auto_blacklist":false,"blacklist_samples_reached":false,"exclude_nan_labels":false,"verbosity":20,"model_explainability":true,"enable_onnx_compatible_models":false,"enable_feature_sweeping":false,"send_telemetry":true,"enable_early_stopping":true,"early_stopping_n_iters":20,"distributed_dnn_max_node_check":false,"enable_distributed_featurization":true,"enable_distributed_dnn_training":true,"enable_distributed_dnn_training_ort_ds":false,"ensemble_iterations":15,"enable_tf":false,"enable_cache":false,"enable_subsampling":false,"metric_operation":"minimize","enable_streaming":false,"use_incremental_learning_override":false,"force_streaming":false,"enable_dnn":false,"is_gpu_tmp":false,"enable_run_restructure":false,"featurization":"auto","vm_type":"Standard_DS11_v2","vm_priority":"dedicated","label_column_name":"rentals","weight_column_name":null,"miro_flight":"default","many_models":false,"many_models_process_count_per_node":0,"automl_many_models_scenario":null,"enable_batch_run":true,"save_mlflow":true,"track_child_runs":true,"test_include_predictions_only":false,"enable_mltable_quick_profile":"True","has_multiple_series":false,"_enable_future_regressors":false,"enable_ensembling":true,"enable_stack_ensembling":false,"ensemble_download_models_timeout_sec":300.0,"stack_meta_learner_train_percentage":0.2}
+  DataPrepJsonString: null
+  EnableSubsampling: 'False'
+  runTemplate: AutoML
+  azureml.runsource: automl
+  _aml_internal_automl_best_rai: 'True'
+  ClientType: Mfe
+  _aml_system_scenario_identification: Remote.Parent
+  PlatformVersion: DPV2
+  environment_cpu_name: AzureML-AutoML
+  environment_cpu_label: prod
+  environment_gpu_name: AzureML-AutoML-GPU
+  environment_gpu_label: prod
+  root_attribution: automl
+  attribution: AutoML
+  Orchestrator: AutoML
+  CancelUri: >-
+    https://brazilsouth.api.azureml.ms/jasmine/v1.0/subscriptions/17f9bca9-a8a6-40fa-9173-2f36be2e5fc1/resourceGroups/Container_1/providers/Microsoft.MachineLearningServices/workspaces/Estudos/experimentids/bcfefa43-2f37-49c1-bf44-d3439f0a7dbf/cancel/curso-lab-ai900
+  mltable_data_json: >-
+    {"Type":"MLTable","TrainData":{"Uri":"azureml://locations/brazilsouth/workspaces/5a167713-3b68-4adb-b54d-68c8b1e3c98a/data/aluguel_de_bicicletas/versions/1","ResolvedUri":"azureml://locations/brazilsouth/workspaces/5a167713-3b68-4adb-b54d-68c8b1e3c98a/data/aluguel_de_bicicletas/versions/1","AssetId":"azureml://locations/brazilsouth/workspaces/5a167713-3b68-4adb-b54d-68c8b1e3c98a/data/aluguel_de_bicicletas/versions/1"},"TestData":null,"ValidData":null}
+  ClientSdkVersion: null
+  snapshotId: 00000000-0000-0000-0000-000000000000
+  SetupRunId: curso-lab-ai900_setup
+  SetupRunContainerId: dcid.curso-lab-ai900_setup
+  FeaturizationRunJsonPath: featurizer_container.json
+  FeaturizationRunId: curso-lab-ai900_featurize
+  ProblemInfoJsonString: >-
+    {"dataset_num_categorical": 0, "is_sparse": true, "subsampling": false,
+    "has_extra_col": true, "dataset_classes": 508, "dataset_features": 34,
+    "dataset_samples": 591, "single_frequency_class_detected": false}
+  ModelExplainRunId: curso-lab-ai900_ModelExplain
+  ModelRAIRunId: curso-lab-ai900_RAI
+displayName: curso-lab-ai900
+status: Completed
+experimentName: mslearn-bike-rental
+services:
+  Tracking:
+    jobServiceType: Tracking
+    port: null
+    endpoint: >-
+      azureml://brazilsouth.api.azureml.ms/mlflow/v1.0/subscriptions/17f9bca9-a8a6-40fa-9173-2f36be2e5fc1/resourceGroups/Container_1/providers/Microsoft.MachineLearningServices/workspaces/Estudos?
+    status: null
+    errorMessage: null
+    properties: null
+    nodes: null
+  Studio:
+    jobServiceType: Studio
+    port: null
+    endpoint: >-
+      https://ml.azure.com/runs/curso-lab-ai900?wsid=/subscriptions/17f9bca9-a8a6-40fa-9173-2f36be2e5fc1/resourcegroups/Container_1/workspaces/Estudos
+    status: null
+    errorMessage: null
+    properties: null
+    nodes: null
+computeId: >-
+  /subscriptions/17f9bca9-a8a6-40fa-9173-2f36be2e5fc1/resourceGroups/Container_1/providers/Microsoft.MachineLearningServices/workspaces/Estudos/computes/Serverless
+isArchived: false
+identity: null
+componentId: null
+notificationSetting: null
+secretsConfiguration: {}
+jobType: AutoML
+resources:
+  instanceCount: 1
+  maxInstanceCount: null
+  instanceType: Standard_DS11_v2
+  locations: null
+  properties:
+    ComputeSpecification:
+      Automatic: true
+      InstancePriority: Dedicated
+  shmSize: 2g
+  dockerArgs: null
+environmentId: null
+environmentVariables: null
+taskDetails:
+  logVerbosity: Info
+  trainingData:
+    description: null
+    uri: >-
+      azureml://locations/brazilsouth/workspaces/5a167713-3b68-4adb-b54d-68c8b1e3c98a/data/aluguel_de_bicicletas/versions/1
+    mode: ReadOnlyMount
+    jobInputType: mltable
+  targetColumnName: rentals
+  limitSettings:
+    maxTrials: 1000
+    trialTimeout: PT30M
+    timeout: PT6H
+    maxConcurrentTrials: 1
+    maxNodes: 1
+    maxCoresPerTrial: -1
+    exitScore: null
+    enableEarlyTermination: true
+    sweepTrials: 0
+    sweepConcurrentTrials: 0
+  sweepSettings: null
+  fixedParameters: null
+  searchSpace: null
+  nCrossValidations: null
+  cvSplitColumnNames: null
+  weightColumnName: null
+  validationData:
+    description: null
+    mode: ReadOnlyMount
+    jobInputType: mltable
+  testData:
+    description: null
+    mode: ReadOnlyMount
+    jobInputType: mltable
+  validationDataSize: 0.1
+  testDataSize: 0.1
+  featurizationSettings: null
+  taskType: Regression
+  primaryMetric: NormalizedRootMeanSquaredError
+  trainingSettings:
+    enableOnnxCompatibleModels: false
+    stackEnsembleSettings: null
+    enableStackEnsemble: false
+    enableVoteEnsemble: true
+    ensembleModelDownloadTimeout: PT5M
+    enableModelExplainability: true
+    enableDnnTraining: false
+    trainingMode: Auto
+    allowedTrainingAlgorithms: []
+    blockedTrainingAlgorithms: []
+outputs: {}
+queueSettings: null
