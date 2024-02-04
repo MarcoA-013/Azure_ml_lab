@@ -117,4 +117,9 @@ No Azure Machine Learning studio, no menu à esquerda, selecione Endpoints e abr
 Na página do ponto final em tempo real predict-rentals, visualize a guia Teste.
 No painel Dados de entrada para testar o ponto final, substitua o modelo JSON pelos dados adequados ao seu teste
 
+# Endpoint do projeto: (recurso já deletado)
+
+- azureml://brazilsouth.api.azureml.ms/mlflow/v1.0/subscriptions/17f9bca9-a8a6-40fa-9173-2f36be2e5fc1/resourceGroups/Container_1/providers/Microsoft.MachineLearningServices/workspaces/Estudos?
+
+
 ### * Os dados usados neste exercício são derivados do Capital Bikeshare e são usados de acordo com o contrato de licença de dados publicado.
